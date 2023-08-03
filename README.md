@@ -14,4 +14,4 @@
 <pre>
 Try to write such a calculator yourself, and then compare the results, if you succeed, I want to congratulate you!
 </pre>
-<img src='/footer.png' alt='footer image' width='1000' height='300'>
+<img src='/footer.png' alt='footer image'>
